@@ -29,7 +29,7 @@ Bu yazılım yalnızca ADANA ASKİ kurumu içerisinde kullanılmak üzere geliş
 Yazılım hakkında sorularınız için:
 - Kurum: ADANA ASKİ Genel Müdürlüğü
 - Birim: Ceyhan Atıksu Arıtma Tesisi
-- Geliştirici: Tamer Savran KOPAN
+- Geliştirici: Mehmet IŞIK
 
 ## Sorumluluk Reddi
 
