@@ -89,6 +89,9 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 - Google Drive'a otomatik yükleme
 
 #### 2. Viewer Uygulaması
+<img width="233" height="232" alt="Ekran görüntüsü 2025-07-19 161215" src="https://github.com/user-attachments/assets/2611fcf2-fc92-4364-ac9c-cf63632d59fc" />
+
+
 - Salt okunur erişim
 - Google OAuth2 ile güvenli giriş
 - Drive'dan otomatik senkronizasyon
