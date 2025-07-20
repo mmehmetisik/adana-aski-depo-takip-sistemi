@@ -1,4 +1,4 @@
-# 🏢 ADANA ASKİ Depo Takip Sistemi
+<img width="1513" height="780" alt="Ekran görüntüsü 2025-07-20 150002" src="https://github.com/user-attachments/assets/a8e18bbd-ba42-4df6-b95b-09052490ec7f" /># 🏢 ADANA ASKİ Depo Takip Sistemi
 
 ## 📋 Proje Hakkında
 
@@ -140,13 +140,63 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 
 
 #### Malzeme Ekleme
-*[Yeni malzeme tanımlama formu]*
+<img width="499" height="674" alt="Ekran görüntüsü 2025-07-20 104311" src="https://github.com/user-attachments/assets/b044cc40-bd79-4977-8a89-984829d9d8d3" />
 
-#### Stok Giriş/Çıkış
-*[Malzeme seçimi, miktar girişi ve personel bilgileri]*
+<img width="496" height="673" alt="Ekran görüntüsü 2025-07-20 104556" src="https://github.com/user-attachments/assets/e1d92c54-e9c3-4e5e-b4ba-f0eae0e64045" />
+
+
+#### Stok Giriş
+<img width="645" height="778" alt="Ekran görüntüsü 2025-07-20 120237" src="https://github.com/user-attachments/assets/d415e63d-565d-4fca-a6f2-a4f4fea65574" />
+
+<img width="642" height="781" alt="Ekran görüntüsü 2025-07-20 120333" src="https://github.com/user-attachments/assets/6335d11b-814f-4c67-bed5-490659c72b49" />
+
+<img width="641" height="770" alt="Ekran görüntüsü 2025-07-20 120345" src="https://github.com/user-attachments/assets/aee2b3e5-715e-4aa2-a645-594ea4f11902" />
+
+#### Stok Çıkış
+<img width="690" height="819" alt="Ekran görüntüsü 2025-07-20 120659" src="https://github.com/user-attachments/assets/8396112c-e241-4f2b-916f-eb6ac5cb1318" />
+
+<img width="686" height="819" alt="Ekran görüntüsü 2025-07-20 120810" src="https://github.com/user-attachments/assets/871fe9f8-b297-42a4-8623-83e9455d60ba" />
+
+<img width="689" height="822" alt="Ekran görüntüsü 2025-07-20 120830" src="https://github.com/user-attachments/assets/cae63713-b2aa-4ee1-94dc-36a8d0b96170" />
+
+<img width="789" height="1124" alt="Ekran görüntüsü 2025-07-20 122003" src="https://github.com/user-attachments/assets/72d7e3d4-42b1-424d-a55d-ab3969e1b520" />
+
+<img width="697" height="832" alt="Ekran görüntüsü 2025-07-20 145249" src="https://github.com/user-attachments/assets/393b2f78-51ed-4f84-b60b-7920a3d28ce3" />
+
+<img width="693" height="823" alt="Ekran görüntüsü 2025-07-20 145721" src="https://github.com/user-attachments/assets/89d584e3-3c11-4736-a2f9-7e559b1306e9" />
+
+<img width="692" height="828" alt="Ekran görüntüsü 2025-07-20 145803" src="https://github.com/user-attachments/assets/06477fd4-4e91-4ab4-ba45-fe430370e46c" />
+
+<img width="691" height="820" alt="Ekran görüntüsü 2025-07-20 145826" src="https://github.com/user-attachments/assets/bb96ee64-ed64-4d49-a930-af99c076d8e8" />
+
+<img width="773" height="1089" alt="Ekran görüntüsü 2025-07-20 145903" src="https://github.com/user-attachments/assets/61279b9b-42ac-482d-920a-8fc8dae3cd85" />
+
+#### Excel Export
+<img width="1517" height="771" alt="Ekran görüntüsü 2025-07-20 145938" src="https://github.com/user-attachments/assets/75e10c07-c40d-4908-8fd4-cb7d584c62b2" />
+
+<img width="1518" height="781" alt="Ekran görüntüsü 2025-07-20 145950" src="https://github.com/user-attachments/assets/6c299cd5-5a40-4bf4-a424-15fc8b630dc8" />
+
+<img width="1513" height="780" alt="Ekran görüntüsü 2025-07-20 150002" src="https://github.com/user-attachments/assets/be00e563-6284-413e-ba86-00505fd87525" />
+
+<img width="1746" height="1018" alt="Ekran görüntüsü 2025-07-20 150039" src="https://github.com/user-attachments/assets/168f26d3-6592-43b7-8843-9f344477b4b4" />
+
+<img width="1742" height="1024" alt="Ekran görüntüsü 2025-07-20 150048" src="https://github.com/user-attachments/assets/5870e352-621f-487c-9d83-ab8d88660311" />
+
+<img width="1741" height="1027" alt="Ekran görüntüsü 2025-07-20 150107" src="https://github.com/user-attachments/assets/fc0b70d6-bcbe-4fa9-8946-40579e88d84d" />
+
+<img width="1744" height="1025" alt="Ekran görüntüsü 2025-07-20 150115" src="https://github.com/user-attachments/assets/aaddf369-2938-4c23-88b7-dff0157c96a6" />
+
+<img width="1742" height="1023" alt="Ekran görüntüsü 2025-07-20 150124" src="https://github.com/user-attachments/assets/b42fd9a4-a902-4497-8dab-9ae447d69757" />
 
 #### Rapor Merkezi
-*[Aylık özet, kategori dağılımı ve Excel export]*
+<img width="1738" height="927" alt="Ekran görüntüsü 2025-07-20 150226" src="https://github.com/user-attachments/assets/e72d9510-d83d-4c48-9de3-edd9724b6f70" />
+
+<img width="2026" height="928" alt="Ekran görüntüsü 2025-07-20 150306" src="https://github.com/user-attachments/assets/e976d0a5-a80c-4f49-93c9-16822c9875b4" />
+
+<img width="1756" height="1030" alt="Ekran görüntüsü 2025-07-20 150348" src="https://github.com/user-attachments/assets/81329f16-d424-4dbf-a55b-346915480b77" />
+
+<img width="1823" height="1086" alt="Ekran görüntüsü 2025-07-20 150358" src="https://github.com/user-attachments/assets/c296ddcf-3399-4fbe-8ec2-3c08fd82608a" />
+
 
 ### Viewer Uygulaması
 
