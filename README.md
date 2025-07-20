@@ -201,10 +201,21 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 ### Viewer Uygulaması
 
 #### Google Giriş
-*[OAuth2 kimlik doğrulama ekranı]*
+<img width="612" height="777" alt="Ekran görüntüsü 2025-07-19 163611" src="https://github.com/user-attachments/assets/1894f1ab-f076-4680-9edc-11f684b91d6f" />
+
+<img width="910" height="561" alt="Ekran görüntüsü 2025-07-20 153100" src="https://github.com/user-attachments/assets/f14b9e95-d2ed-4835-a4cc-5b22f7af8822" />
+
+<img width="910" height="563" alt="Ekran görüntüsü 2025-07-20 153115" src="https://github.com/user-attachments/assets/12557c5b-1161-4d80-8461-5c6a547b4cbc" />
+
 
 #### Ana Görünüm
-*[Salt okunur stok listesi ve filtreleme]*
+<img width="1482" height="816" alt="Ekran görüntüsü 2025-07-20 153829" src="https://github.com/user-attachments/assets/47f22585-e88f-4c15-aa6a-8e178d4407f5" />
+
+<img width="1486" height="819" alt="Ekran görüntüsü 2025-07-20 153838" src="https://github.com/user-attachments/assets/2208dd06-0741-4ab8-8275-5fef2938a652" />
+
+<img width="1483" height="816" alt="Ekran görüntüsü 2025-07-20 153846" src="https://github.com/user-attachments/assets/8629c199-cc49-4e4c-bf14-2ce1fa31cd49" />
+
+
 
 #### Stok Durumu
 *[Renk kodlu stok göstergeleri]*
