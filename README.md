@@ -1,4 +1,4 @@
-<img width="1513" height="780" alt="Ekran görüntüsü 2025-07-20 150002" src="https://github.com/user-attachments/assets/a8e18bbd-ba42-4df6-b95b-09052490ec7f" /># 🏢 ADANA ASKİ Depo Takip Sistemi
+# 🏢 ADANA ASKİ Depo Takip Sistemi
 
 ## 📋 Proje Hakkında
 
