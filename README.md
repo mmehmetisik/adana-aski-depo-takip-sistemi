@@ -124,10 +124,20 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 ### Ana Depo Takip Sistemi
 
 #### Giriş Ekranı
-*[Kullanıcı girişi ve oturum yönetimi]*
+<img width="447" height="773" alt="Ekran görüntüsü 2025-07-20 103317" src="https://github.com/user-attachments/assets/05cca793-b6a5-4004-8523-e61e512a5324" />
+
 
 #### Ana Panel
-*[Kategori butonları, stok listesi ve işlem butonları]*
+<img width="1972" height="966" alt="Ekran görüntüsü 2025-07-20 104114" src="https://github.com/user-attachments/assets/2f6ec04a-332f-499a-84a0-0ef5af622c9e" />
+
+<img width="1983" height="964" alt="Ekran görüntüsü 2025-07-20 104138" src="https://github.com/user-attachments/assets/8d5ecbc1-d1fa-41c6-a224-e2cee0947bde" />
+
+<img width="1976" height="969" alt="Ekran görüntüsü 2025-07-20 104148" src="https://github.com/user-attachments/assets/0d5cf2e6-8496-450f-9ce1-807b6fffb655" />
+
+<img width="1977" height="978" alt="Ekran görüntüsü 2025-07-20 104156" src="https://github.com/user-attachments/assets/cc0e6a35-724a-4340-8bc7-b44db3ac1c5f" />
+
+<img width="1973" height="970" alt="Ekran görüntüsü 2025-07-20 104207" src="https://github.com/user-attachments/assets/268d86a9-8462-4a0a-b5e6-dcd3e17b52ac" />
+
 
 #### Malzeme Ekleme
 *[Yeni malzeme tanımlama formu]*
