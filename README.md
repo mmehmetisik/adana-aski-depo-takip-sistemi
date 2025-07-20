@@ -79,6 +79,8 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 ### 📱 İki Uygulama Yaklaşımı
 
 #### 1. Ana Depo Takip Sistemi
+<img width="658" height="538" alt="Ekran görüntüsü 2025-07-19 154923" src="https://github.com/user-attachments/assets/b03af375-6998-403c-abe1-ae3072912115" />
+
 - Malzeme tanımlama ve kategorizasyon
 - Stok giriş/çıkış işlemleri
 - Otomatik evrak numarası üretimi
