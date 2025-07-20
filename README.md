@@ -200,6 +200,11 @@ ADANA ASKİ - Ceyhan Atıksu Arıtma Tesisi
 
 Bu proje ADANA ASKİ kurumsal kullanımı için geliştirilmiştir. Tüm hakları saklıdır.
 
+## ⚠️ Önemli Uyarı
+
+Bu repository yalnızca proje tanıtımı içindir. Kaynak kodları içermez ve paylaşılmamaktadır. 
+Tüm hakları saklıdır. Ticari kullanım yasaktır.
+
 ---
 
 <p align="center">
