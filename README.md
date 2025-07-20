@@ -201,6 +201,9 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 ### Viewer Uygulaması
 
 #### Google Giriş
+<img width="613" height="779" alt="Ekran görüntüsü 2025-07-19 162455" src="https://github.com/user-attachments/assets/8674bb37-af25-44a2-a890-78feb9568cbe" />
+
+
 <img width="612" height="777" alt="Ekran görüntüsü 2025-07-19 163611" src="https://github.com/user-attachments/assets/1894f1ab-f076-4680-9edc-11f684b91d6f" />
 
 <img width="910" height="561" alt="Ekran görüntüsü 2025-07-20 153100" src="https://github.com/user-attachments/assets/f14b9e95-d2ed-4835-a4cc-5b22f7af8822" />
@@ -215,10 +218,8 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 
 <img width="1483" height="816" alt="Ekran görüntüsü 2025-07-20 153846" src="https://github.com/user-attachments/assets/8629c199-cc49-4e4c-bf14-2ce1fa31cd49" />
 
+<img width="1482" height="816" alt="Ekran görüntüsü 2025-07-20 153921" src="https://github.com/user-attachments/assets/0d456faa-191b-45e8-ab02-52afb1fef7cf" />
 
-
-#### Stok Durumu
-*[Renk kodlu stok göstergeleri]*
 
 ## 🚀 Öne Çıkan Özellikler
 
