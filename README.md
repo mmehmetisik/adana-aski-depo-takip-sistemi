@@ -144,6 +144,9 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 <img width="496" height="673" alt="Ekran görüntüsü 2025-07-20 104556" src="https://github.com/user-attachments/assets/e1d92c54-e9c3-4e5e-b4ba-f0eae0e64045" />
 
 
+#### Malzeme Düzenleme
+<img width="619" height="838" alt="7" src="https://github.com/user-attachments/assets/4fd85e43-9d4f-4263-90d0-29f27945afdc" />
+
 #### Stok Giriş
 <img width="645" height="778" alt="Ekran görüntüsü 2025-07-20 120237" src="https://github.com/user-attachments/assets/d415e63d-565d-4fca-a6f2-a4f4fea65574" />
 
@@ -186,6 +189,8 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 <img width="1744" height="1025" alt="Ekran görüntüsü 2025-07-20 150115" src="https://github.com/user-attachments/assets/aaddf369-2938-4c23-88b7-dff0157c96a6" />
 
 <img width="1742" height="1023" alt="Ekran görüntüsü 2025-07-20 150124" src="https://github.com/user-attachments/assets/b42fd9a4-a902-4497-8dab-9ae447d69757" />
+
+<img width="1915" height="990" alt="11" src="https://github.com/user-attachments/assets/8ec7d972-0b92-47fb-a502-3ea49dc32481" />
 
 #### Rapor Merkezi
 <img width="1738" height="927" alt="Ekran görüntüsü 2025-07-20 150226" src="https://github.com/user-attachments/assets/e72d9510-d83d-4c48-9de3-edd9724b6f70" />
