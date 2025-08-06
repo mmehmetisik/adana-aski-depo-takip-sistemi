@@ -180,6 +180,16 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 
 <img width="1907" height="975" alt="8" src="https://github.com/user-attachments/assets/582fb4e3-301b-4433-aa8b-7855a73b6fe9" />
 
+<img width="1909" height="991" alt="15" src="https://github.com/user-attachments/assets/48463d05-7c04-402a-8a23-3615f9237587" />
+
+<img width="1906" height="983" alt="16" src="https://github.com/user-attachments/assets/33d7b275-d94d-4335-bdec-0122a9cfbc78" />
+
+<img width="1918" height="988" alt="17" src="https://github.com/user-attachments/assets/3d1f1c24-f740-4a25-abca-2821cb5be4a6" />
+
+<img width="1914" height="994" alt="18" src="https://github.com/user-attachments/assets/5708d8a3-3fbc-4347-858c-7b2dc02c3a01" />
+
+<img width="1915" height="997" alt="19" src="https://github.com/user-attachments/assets/0cc0bc3d-41b2-4265-9830-3b49b4a25d41" />
+
 <img width="1915" height="990" alt="11" src="https://github.com/user-attachments/assets/8ec7d972-0b92-47fb-a502-3ea49dc32481" />
 
 #### Rapor Merkezi
