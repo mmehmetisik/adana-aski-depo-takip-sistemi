@@ -174,21 +174,11 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 <img width="773" height="1089" alt="Ekran görüntüsü 2025-07-20 145903" src="https://github.com/user-attachments/assets/61279b9b-42ac-482d-920a-8fc8dae3cd85" />
 
 #### Excel Export
-<img width="1517" height="771" alt="Ekran görüntüsü 2025-07-20 145938" src="https://github.com/user-attachments/assets/75e10c07-c40d-4908-8fd4-cb7d584c62b2" />
+<img width="1912" height="978" alt="10" src="https://github.com/user-attachments/assets/d743cbf6-43e0-4563-9ce6-74a2badc2d06" />
 
-<img width="1518" height="781" alt="Ekran görüntüsü 2025-07-20 145950" src="https://github.com/user-attachments/assets/6c299cd5-5a40-4bf4-a424-15fc8b630dc8" />
+<img width="1901" height="974" alt="9" src="https://github.com/user-attachments/assets/415edd53-c1a3-4677-9a36-49fcb3ee622b" />
 
-<img width="1513" height="780" alt="Ekran görüntüsü 2025-07-20 150002" src="https://github.com/user-attachments/assets/be00e563-6284-413e-ba86-00505fd87525" />
-
-<img width="1746" height="1018" alt="Ekran görüntüsü 2025-07-20 150039" src="https://github.com/user-attachments/assets/168f26d3-6592-43b7-8843-9f344477b4b4" />
-
-<img width="1742" height="1024" alt="Ekran görüntüsü 2025-07-20 150048" src="https://github.com/user-attachments/assets/5870e352-621f-487c-9d83-ab8d88660311" />
-
-<img width="1741" height="1027" alt="Ekran görüntüsü 2025-07-20 150107" src="https://github.com/user-attachments/assets/fc0b70d6-bcbe-4fa9-8946-40579e88d84d" />
-
-<img width="1744" height="1025" alt="Ekran görüntüsü 2025-07-20 150115" src="https://github.com/user-attachments/assets/aaddf369-2938-4c23-88b7-dff0157c96a6" />
-
-<img width="1742" height="1023" alt="Ekran görüntüsü 2025-07-20 150124" src="https://github.com/user-attachments/assets/b42fd9a4-a902-4497-8dab-9ae447d69757" />
+<img width="1907" height="975" alt="8" src="https://github.com/user-attachments/assets/582fb4e3-301b-4433-aa8b-7855a73b6fe9" />
 
 <img width="1915" height="990" alt="11" src="https://github.com/user-attachments/assets/8ec7d972-0b92-47fb-a502-3ea49dc32481" />
 
