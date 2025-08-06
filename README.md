@@ -211,13 +211,8 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 
 
 #### Ana Görünüm
-<img width="1482" height="816" alt="Ekran görüntüsü 2025-07-20 153829" src="https://github.com/user-attachments/assets/47f22585-e88f-4c15-aa6a-8e178d4407f5" />
 
-<img width="1486" height="819" alt="Ekran görüntüsü 2025-07-20 153838" src="https://github.com/user-attachments/assets/2208dd06-0741-4ab8-8275-5fef2938a652" />
-
-<img width="1483" height="816" alt="Ekran görüntüsü 2025-07-20 153846" src="https://github.com/user-attachments/assets/8629c199-cc49-4e4c-bf14-2ce1fa31cd49" />
-
-<img width="1482" height="816" alt="Ekran görüntüsü 2025-07-20 153921" src="https://github.com/user-attachments/assets/0d456faa-191b-45e8-ab02-52afb1fef7cf" />
+<img width="1909" height="1013" alt="20" src="https://github.com/user-attachments/assets/2dc5fb7e-54f2-4da4-b737-65af0c6ccd7d" />
 
 
 ## 🚀 Öne Çıkan Özellikler
