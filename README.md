@@ -193,14 +193,9 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 <img width="1915" height="990" alt="11" src="https://github.com/user-attachments/assets/8ec7d972-0b92-47fb-a502-3ea49dc32481" />
 
 #### Rapor Merkezi
-<img width="1738" height="927" alt="Ekran görüntüsü 2025-07-20 150226" src="https://github.com/user-attachments/assets/e72d9510-d83d-4c48-9de3-edd9724b6f70" />
+<img width="2555" height="1218" alt="14" src="https://github.com/user-attachments/assets/34b304ab-eff7-412e-a116-565ac24d67fd" />
 
-<img width="2026" height="928" alt="Ekran görüntüsü 2025-07-20 150306" src="https://github.com/user-attachments/assets/e976d0a5-a80c-4f49-93c9-16822c9875b4" />
-
-<img width="1756" height="1030" alt="Ekran görüntüsü 2025-07-20 150348" src="https://github.com/user-attachments/assets/81329f16-d424-4dbf-a55b-346915480b77" />
-
-<img width="1823" height="1086" alt="Ekran görüntüsü 2025-07-20 150358" src="https://github.com/user-attachments/assets/c296ddcf-3399-4fbe-8ec2-3c08fd82608a" />
-
+<img width="2539" height="1130" alt="13" src="https://github.com/user-attachments/assets/d14c9f06-fe68-45ee-b76f-b3cf82a46ba0" />
 
 ### Viewer Uygulaması
 
