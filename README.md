@@ -79,7 +79,7 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 ### 📱 İki Uygulama Yaklaşımı
 
 #### 1. Ana Depo Takip Sistemi
-<img width="1912" height="972" alt="1" src="https://github.com/user-attachments/assets/e6ca0985-04da-4be8-929c-8c81c8df8c36" />
+<img width="551" height="554" alt="Ekran görüntüsü 2025-08-06 223534" src="https://github.com/user-attachments/assets/608a468b-fdac-461b-90b4-420f2edcc309" />
 
 
 - Malzeme tanımlama ve kategorizasyon
@@ -128,15 +128,14 @@ Bugün Ceyhan Atıksu Arıtma Tesisi'nde bu sistem aktif olarak kullanılıyor v
 
 
 #### Ana Panel
-<img width="1972" height="966" alt="Ekran görüntüsü 2025-07-20 104114" src="https://github.com/user-attachments/assets/2f6ec04a-332f-499a-84a0-0ef5af622c9e" />
+<img width="551" height="554" alt="Ekran görüntüsü 2025-08-06 223534" src="https://github.com/user-attachments/assets/cbd48102-c9a8-4877-aaa8-f368a6afc3f8" />
+<img width="1902" height="961" alt="6" src="https://github.com/user-attachments/assets/bd0a782b-1afe-4249-aa89-3a49bdf1f420" />
+<img width="1907" height="973" alt="5" src="https://github.com/user-attachments/assets/ead38fe5-3732-4ca5-b4ad-fd444cfdb73f" />
+<img width="1909" height="972" alt="4" src="https://github.com/user-attachments/assets/89024022-1703-44a7-976d-1768d6b43b2f" />
+<img width="1903" height="975" alt="3" src="https://github.com/user-attachments/assets/73ee5b6c-50e5-4299-b3b6-f37d8ca9934d" />
+<img width="1907" height="969" alt="2" src="https://github.com/user-attachments/assets/3282fa32-c277-4110-8a5b-fe6a88fee1e3" />
+<img width="1912" height="972" alt="1" src="https://github.com/user-attachments/assets/2178340c-4ec0-469d-a36b-9e78d178154e" />
 
-<img width="1983" height="964" alt="Ekran görüntüsü 2025-07-20 104138" src="https://github.com/user-attachments/assets/8d5ecbc1-d1fa-41c6-a224-e2cee0947bde" />
-
-<img width="1976" height="969" alt="Ekran görüntüsü 2025-07-20 104148" src="https://github.com/user-attachments/assets/0d5cf2e6-8496-450f-9ce1-807b6fffb655" />
-
-<img width="1977" height="978" alt="Ekran görüntüsü 2025-07-20 104156" src="https://github.com/user-attachments/assets/cc0e6a35-724a-4340-8bc7-b44db3ac1c5f" />
-
-<img width="1973" height="970" alt="Ekran görüntüsü 2025-07-20 104207" src="https://github.com/user-attachments/assets/268d86a9-8462-4a0a-b5e6-dcd3e17b52ac" />
 
 
 #### Malzeme Ekleme
